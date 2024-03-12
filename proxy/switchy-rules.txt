@@ -1,0 +1,11 @@
+[SwitchyOmega Conditions]
+; Require: SwitchyOmega >= 2.3.2
+; Date: 6/17/2021
+; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
+
+*.duckduckgo.com
+*.google.com
+*.wikipedia.org
+
+; Jetbrains
+*.zdassets.com
