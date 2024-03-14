@@ -9,3 +9,6 @@
 
 ; Jetbrains
 *.zdassets.com
+
+; OpenAI
+*.openai.com
