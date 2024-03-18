@@ -6,6 +6,7 @@
 *.duckduckgo.com
 *.githubusercontent.com
 *.google.com
+*.googleapis.com
 *.openai.com
 *.wikipedia.org
 
