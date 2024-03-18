@@ -4,11 +4,11 @@
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 
 *.duckduckgo.com
+*.githubusercontent.com
 *.google.com
+*.openai.com
 *.wikipedia.org
 
 ; Jetbrains
 *.zdassets.com
 
-; OpenAI
-*.openai.com
